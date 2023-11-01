@@ -1,0 +1,36 @@
+body {
+    background-color: #555843;
+}
+h1 {
+    color: #555843;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+    background-color: #F5EEC8;
+    margin-right: 850px;
+    color: #555843;
+}
+
+p {
+    color:#555843;
+    font-size: large;
+    font-style: oblique;
+}
+a:hover { background-color: orange; 
+}
+.main-container {
+    background-color: #D0D4CA;
+    width: 1000px;
+    height: 800px;
+    padding: 100px;
+}
+.nav-styling {
+    background-color: #F5EEC8;
+    height: 15px;
+    padding: 15px;
+}
+
+a {
+   color: #555843;
+   font-size: larger;
+}
