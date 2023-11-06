@@ -34,3 +34,13 @@ a {
    color: #555843;
    font-size: larger;
 }
+section {
+    border: solid #dcdcdc 5px;
+    border-radius: 1px;
+    border-color: #F5EEC8;
+    padding: 10px;
+    display:flex;
+    flex-direction: column;
+    align-items:flex-start;
+    
+  }
